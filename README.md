@@ -5,7 +5,7 @@ StateGo Python sample
 
 Windows  
 Python  
-StateGo https://statego.programanic.com
+[StateGo](https://statego.programanic.com/index-e.html)
 
 
 # INSTRUCTION
