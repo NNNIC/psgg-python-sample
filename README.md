@@ -1,5 +1,5 @@
 # psgg-python-sample
-StateGo Python sample
+Visual Programming Tool StateGo Python sample
 
 # ENVIRONMENT 
 
@@ -20,9 +20,9 @@ You may use FizzBuzz too.
 
 ## Test
 
-![](https://raw.githubusercontent.com/NNNIC/psgg-python-sample/master/wiki/sample.png)
+![](https://raw.githubusercontent.com/NNNIC/psgg-python-sample/master/wiki/test.png)
 
 ## Fizz Buzz
 
-![](https://github.com/NNNIC/psgg-python-sample/blob/master/wiki/pysmp.gif)
+![](https://raw.githubusercontent.com/NNNIC/psgg-python-sample/master/wiki/fizzbuzz.png)
 
