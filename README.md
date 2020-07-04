@@ -21,15 +21,19 @@ You may use FizzBuzz too.
 ## Test
 
 StateGo Chart
+
 ![](https://raw.githubusercontent.com/NNNIC/psgg-python-sample/master/wiki/test.png)
 
 Output
+
 ![](https://raw.githubusercontent.com/NNNIC/psgg-python-sample/master/wiki/test-out.png)
 
 ## Fizz Buzz
 
 StateGo Chart
+
 ![](https://raw.githubusercontent.com/NNNIC/psgg-python-sample/master/wiki/fizzbuzz.png)
 
 Output
+
 ![](https://raw.githubusercontent.com/NNNIC/psgg-python-sample/master/wiki/fizzbuzz-out.png)
