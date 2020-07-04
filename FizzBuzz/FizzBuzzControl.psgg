@@ -180,7 +180,7 @@ n016=@@@
 The root
 @@@
 
-n017=203,793
+n017=221,669
 n018=100009
 
 [s000c]
@@ -196,7 +196,7 @@ n016=@@@
 The root
 @@@
 
-n017=594,1013
+n017=612,889
 n018=100010
 
 [s000d]
@@ -208,7 +208,7 @@ n016=@@@
 The root
 @@@
 
-n017=916,880
+n017=934,756
 n018=100011
 
 [s000e]
@@ -240,7 +240,7 @@ n016=@@@
 The root
 @@@
 
-n017=317,790
+n017=335,666
 n018=100012
 
 [s000f]
@@ -256,7 +256,7 @@ n016=@@@
 The root
 @@@
 
-n017=594,917
+n017=612,793
 n018=100013
 
 [s0010]
@@ -272,7 +272,7 @@ n016=@@@
 The root
 @@@
 
-n017=594,830
+n017=612,706
 n018=100014
 
 [s0011]
@@ -288,7 +288,7 @@ n016=@@@
 The root
 @@@
 
-n017=594,744
+n017=612,620
 n018=100015
 
 [s0012]
@@ -313,7 +313,7 @@ n016=@@@
 The root
 @@@
 
-n017=139,51
+n017=156,109
 n018=100017
 
 [s0014]
@@ -350,7 +350,7 @@ n018=100019
 sheet=config
 
 ###VARIOUS-CONTENTS-BEGIN###
-; The setting was created automatically. 2020/07/04 21:45:50
+; The setting was created automatically. 2020/07/04 21:52:36
 ; * pssgEditor version : 0.65.5617.0737256ae72d56e87335f7bfb8f8728597b6ec64
 psggfile=@@@
 FizzBuzzControl.psgg
@@ -368,7 +368,7 @@ c_thumbnail=1
 c_contents=1
 force_display_outpin=0
 last_action=@@@
-init,Saved
+mov,S_SBS001,S_0001,S_RET001
 @@@
 target_pathdir=@@@
 /
@@ -383,7 +383,7 @@ nodegroup_pos_list=@@@
 [{"Key":"\/","Value":{"x":100,"y":100}}]
 @@@
 fillter_state_location_list=@@@
-[{"Key":"\/","Value":[{"Key":"S_START","Value":{"x":30,"y":210}},{"Key":"S_END","Value":{"x":1062,"y":509}},{"Key":"S_0000","Value":{"x":827,"y":224}},{"Key":"S_GSB000","Value":{"x":383,"y":210}},{"Key":"S_SBS000","Value":{"x":733,"y":224}},{"Key":"S_RET000","Value":{"x":1006,"y":224}},{"Key":"S_LOP000","Value":{"x":107,"y":509}},{"Key":"S_SBS001","Value":{"x":203,"y":793}},{"Key":"S_0001","Value":{"x":594,"y":1013}},{"Key":"S_RET001","Value":{"x":916,"y":880}},{"Key":"S_CHECK","Value":{"x":317,"y":790}},{"Key":"S_0002","Value":{"x":594,"y":917}},{"Key":"S_0003","Value":{"x":594,"y":830}},{"Key":"S_0004","Value":{"x":589,"y":578}},{"Key":"S_FizzBuzz","Value":{"x":594,"y":744}},{"Key":"S_START1","Value":{"x":147,"y":210}},{"Key":"E_0000","Value":{"x":139,"y":51}},{"Key":"S_GSB001","Value":{"x":464,"y":509}},{"Key":"S_LOP001","Value":{"x":224,"y":509}},{"Key":"S_STARTMSG","Value":{"x":147,"y":210}},{"Key":"S_ENDMSG","Value":{"x":224,"y":509}}]}]
+[{"Key":"\/","Value":[{"Key":"S_START","Value":{"x":30,"y":210}},{"Key":"S_END","Value":{"x":1062,"y":509}},{"Key":"S_0000","Value":{"x":827,"y":224}},{"Key":"S_GSB000","Value":{"x":383,"y":210}},{"Key":"S_SBS000","Value":{"x":733,"y":224}},{"Key":"S_RET000","Value":{"x":1006,"y":224}},{"Key":"S_LOP000","Value":{"x":107,"y":509}},{"Key":"S_SBS001","Value":{"x":221,"y":669}},{"Key":"S_0001","Value":{"x":612,"y":889}},{"Key":"S_RET001","Value":{"x":934,"y":756}},{"Key":"S_CHECK","Value":{"x":335,"y":666}},{"Key":"S_0002","Value":{"x":612,"y":793}},{"Key":"S_0003","Value":{"x":612,"y":706}},{"Key":"S_FizzBuzz","Value":{"x":612,"y":620}},{"Key":"E_0000","Value":{"x":156,"y":109}},{"Key":"S_GSB001","Value":{"x":464,"y":509}},{"Key":"S_STARTMSG","Value":{"x":147,"y":210}},{"Key":"S_ENDMSG","Value":{"x":224,"y":509}}]}]
 @@@
 linecolor_data=@@@
 [{"color":{"knownColor":0,"name":null,"state":2,"value":4285493103},"pattern":"BACKTO_"}]
