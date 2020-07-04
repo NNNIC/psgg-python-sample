@@ -1,18 +1,18 @@
 # psgg-python-sample
-SYN-G-GEN Python sample
+StateGo Python sample
 
 # ENVIRONMENT 
 
 Windows  
 Python  
-SYN-G-GEN http://syn-g-gen.com/  
+[StateGo](https://statego.programanic.com/index-e.html)
 
 
 # INSTRUCTION
 
 1. Change the current directory to "playgorund" in this git copy.  
   If a statemachine files exists, run clean.bat  
-2. Execute SYN-G-GEN.  
+2. Execute StateGo.  
 3. Select "Create New State machine".  
 4. Set TestControl as state machine name.  
 5. Set document folder to playground/doc  
@@ -26,7 +26,7 @@ exec.bat  -- execute python program.
 
 # SAMPLE
 
-## SYN-G-GEN CHART
+## StateGo CHART
 
 ![](https://raw.githubusercontent.com/NNNIC/psgg-python-sample/master/wiki/sample.png)
 
